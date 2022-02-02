@@ -2,7 +2,13 @@
 Hyödyntäen HRI:n (https://hri.fi/data/dataset/vantaan-v-est) avointa dataa Vantaan väestöstä .xlsx muodossa,
 muokkaan datan sopivaan muotoon käytettäväksi Vantaan kaupungin avoimessa paikkatietojärjestelmässä (GSI, WFS) (https://gis.vantaa.fi/geoserver/wfs)
 
-Tällä hetkellä ohjelma tukee kartan tekemistä eläkeläisten osuuksista eri Vantaan kaupunginosista
+Tällä hetkellä ohjelma tukee kahden eri datasarjan havainnollistamista:
+- kartan tekemistä eläkeläisten osuuksista Vantaan eri kaupunginosista
+- väestönmuutosta Vantaan eri kaupunginosissa
+
+Ohjelmassa on tuettuna suomen lisäksi myös englannin kieli.
+
+The program is also available in English!
 
 ![](image/testi.png)
 
